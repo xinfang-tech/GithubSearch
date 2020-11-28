@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubSearch.CaptureWork", "GithubSearch.CaptureWork\GithubSearch.CaptureWork.csproj", "{2B78BDE3-7618-4A2B-9B6B-CF681C9357E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubSearch.Common", "GithubSearch.Common\GithubSearch.Common.csproj", "{852F33CD-6B6A-4BA6-AE34-8CB8CD2B0A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B78BDE3-7618-4A2B-9B6B-CF681C9357E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B78BDE3-7618-4A2B-9B6B-CF681C9357E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B78BDE3-7618-4A2B-9B6B-CF681C9357E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B78BDE3-7618-4A2B-9B6B-CF681C9357E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852F33CD-6B6A-4BA6-AE34-8CB8CD2B0A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852F33CD-6B6A-4BA6-AE34-8CB8CD2B0A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852F33CD-6B6A-4BA6-AE34-8CB8CD2B0A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852F33CD-6B6A-4BA6-AE34-8CB8CD2B0A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593D74C3-5313-4715-85FC-24FDE3D52098}
+	EndGlobalSection
+EndGlobal
